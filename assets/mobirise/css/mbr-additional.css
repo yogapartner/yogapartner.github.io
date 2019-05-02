@@ -1543,3 +1543,24 @@ body {
   background-color: #ffffff;
   opacity: 0.4;
 }
+.cid-rpk7aNSLGf {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rpk7aNSLGf .image-block {
+  margin: auto;
+}
+.cid-rpk7aNSLGf figcaption {
+  position: relative;
+}
+.cid-rpk7aNSLGf figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rpk7aNSLGf .image-block {
+    width: 100% !important;
+  }
+}
